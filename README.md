@@ -13,6 +13,8 @@
   <img alt="Driver: GC9503CV" src="https://img.shields.io/badge/Driver-GC9503CV-E7352C?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 3.97 寸 480×800 TFT MIPI 模组（GC9503CV）宣传图" src="./images/product.png" width="640" /></p>
+
 ## 目录
 
 - [产品简介](#产品简介)
