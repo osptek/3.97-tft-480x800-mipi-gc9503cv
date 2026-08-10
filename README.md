@@ -46,8 +46,6 @@
 
 <p align="center"><img alt="YDP397B001-V1" src="./images/YDP397B001-V1.png" width="320" /></p>
 
-**说明：** 模组。
-
 ---
 
 ## 如何切换分支
